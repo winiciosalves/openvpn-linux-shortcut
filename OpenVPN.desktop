@@ -1,7 +1,7 @@
 #!/usr/bin/env xdg-open
 [Desktop Entry]
 Name=OpenVPN
-Comment=VPN EVEO
+Comment=VPN
 Exec=/usr/bin/env bash /home/winicios/vpn.sh #Altere para seu nome de usuario. Exemplo: /home/meu-nome-usuario/vpn.sh
 Icon=network-vpn
 Terminal=true
